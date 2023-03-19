@@ -1,0 +1,79 @@
+body{
+    
+}
+.header {
+    
+}
+.header__nav {
+    width: 550px;
+    margin: 0 auto;
+}
+.header__nav-item {
+    display: inline-block;
+    padding: 10px 10px;
+    margin: 71px 25px 91px 25px;
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 14px;
+    color: #7d7d7d;
+}
+.header__nav-itemActive{
+    display: inline-block;
+    padding: 10px 10px;
+    margin: 71px 25px 91px 25px;
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 14px;
+    color: #03A9F4;
+}
+.card{
+}
+.card__text{
+}
+.main__text-1{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    margin: 62px 0;
+}
+.main__text-2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+    margin: 32px 0;
+}
+.main__text-3{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+    margin: 40px 0;
+}
+.card{
+    height: 546px;
+    width: 420px;
+    left: 148px;
+    top: 182px;
+    display: inline-block;
+}
+
+.card-2{
+    height: 546px;
+    width: 420px;
+    left: 633px;
+    top: 182px;
+    display: inline-block;
+    margin: 0 65px;
+}
+
+.main{
+    margin: 0 205px;
+}
